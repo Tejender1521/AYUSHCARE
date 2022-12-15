@@ -25,7 +25,7 @@ The main aim is to document, map and digitalize indian healthcare system. Ayushc
 * Download the repository files and folders
 ```
 cd folder/to/clone-into/
-git clone https://github.com/AbhinavJaintle/AyushCare
+https://github.com/Tejender1521/AYUSHCARE.git
 ```
 
 ### Executing program
